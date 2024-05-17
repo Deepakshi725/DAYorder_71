@@ -1,0 +1,12 @@
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 350px;
+  }
+  
+  .start-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(64, 172, 64);
+  }
+  
